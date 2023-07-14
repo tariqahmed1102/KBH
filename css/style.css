@@ -49,7 +49,7 @@
   --heading-font: "Manrope", sans-serif;
   --thm-primary: #000a30;
   --thm-black: #000234;
-  --thm-gray: #0e5619;
+  --thm-gray: #d5d522;
 }
 
 body {
@@ -57,7 +57,7 @@ body {
   line-height: 26px;
   color: var(--thm-gray);
   font-weight: 400;
-  background: #bec317c0;
+  background: #2c5e22c0;
   font-family: var(--body-font);
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
