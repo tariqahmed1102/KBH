@@ -47,9 +47,9 @@
 :root {
   --body-font: "Heebo", sans-serif;
   --heading-font: "Manrope", sans-serif;
-  --thm-primary: #000a30;
-  --thm-black: #000234;
-  --thm-gray: #d5d522;
+  --thm-primary: #12004b;
+  --thm-black: #dede17;
+  --thm-gray: #0e0303;
 }
 
 body {
@@ -57,7 +57,7 @@ body {
   line-height: 26px;
   color: var(--thm-gray);
   font-weight: 400;
-  background: #2c5e22c0;
+  background: #737574;
   font-family: var(--body-font);
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
@@ -2801,7 +2801,7 @@ span.flaticon-paint-roller:before {
   text-transform: uppercase;
   font-weight: 100;
   margin-top: 14px;
-  font-family: serif;
+  font-family: cursive;
 }
 .about-two-bottom-content span {
   color: var(--thm-primary);
@@ -4864,7 +4864,7 @@ span.flaticon-paint-roller:before {
   letter-spacing: 5px;
   line-height: 170px;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: rgb(255 255 255 / 0.2);
+  -webkit-text-stroke-color: rgba(29, 29, 28, 0.483);
   color: transparent;
   z-index: 99;
   font-family: var(--heading-font);
