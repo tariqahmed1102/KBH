@@ -53,12 +53,12 @@
 }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 26px;
   color: var(--thm-gray);
   font-weight: 400;
-  background: #fff;
-  font-family: var(--body-font);
+  background: #ffffff;
+  font-family: garamond;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
 }
@@ -94,7 +94,7 @@ h6 {
   background: none;
   line-height: 1.2em;
   color: var(--thm-black);
-  font-family: var(--heading-font);
+  font-family: Trebuchet MS;
 }
 textarea {
   overflow: hidden;
@@ -1322,7 +1322,7 @@ li {
 .banner-section .content-box h1 {
   position: relative;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 105px;
   line-height: 80px;
   font-weight: 800;
   opacity: 0;
@@ -2437,7 +2437,7 @@ span.flaticon-paint-roller:before {
 }
 .footer-widget-title h3 {
   font-size: 22px;
-  color: #ffffff;
+  color: #0b0c10;
   font-weight: 600;
   line-height: 32px;
 }
@@ -2450,7 +2450,7 @@ span.flaticon-paint-roller:before {
 }
 .footer-widget-about-text p {
   font-size: 16px;
-  color: #ffffff;
+  color: #717578;
   line-height: 33px;
   margin: 0;
 }
@@ -2494,7 +2494,7 @@ span.flaticon-paint-roller:before {
 }
 .footer-widget-useful-links-list li a {
   font-size: 16px;
-  color: #fff;
+  color: #717578;
 }
 
 .footer-widget-useful-links-list li a:hover {
@@ -2506,7 +2506,7 @@ span.flaticon-paint-roller:before {
 .footer-widget_contact-info {
 }
 .footer-widget_contact-info p {
-  color: #ffffff;
+  color: #717578;
   font-size: 16px;
   margin: 0;
   line-height: 26px;
