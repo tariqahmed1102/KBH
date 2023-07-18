@@ -46,10 +46,10 @@
 
 :root {
   --body-font: "Heebo", sans-serif;
-  --heading-font: "Manrope", sans-serif;
-  --thm-primary: #12004b;
-  --thm-black: #dede17;
-  --thm-gray: #0e0303;
+  --heading-font: Cinzel, serif;
+  --thm-primary: #0b0c10;
+  --thm-black: #1f2833;
+  --thm-gray: #717578;
 }
 
 body {
@@ -57,7 +57,7 @@ body {
   line-height: 26px;
   color: var(--thm-gray);
   font-weight: 400;
-  background: #737574;
+  background: #fff;
   font-family: var(--body-font);
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
@@ -72,7 +72,7 @@ body {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #222;
+  color: #432121;
 }
 
 a:hover,
@@ -723,6 +723,7 @@ li {
 }
 .header_top_one_box ul li {
   position: relative;
+  font-family: Belleza;
   display: inline-block;
   float: left;
   color: #ffffff;
@@ -782,6 +783,7 @@ li {
 
 .header_top_two_box .opening_hour p {
   color: #ffffff;
+  font-family: Belleza;
   font-size: 16px;
   font-weight: 500;
   margin: 0;
@@ -902,6 +904,7 @@ li {
 }
 .main-menu .navigation > li {
   position: relative;
+  font-family: Audrey;
   float: left;
   padding: 40px 0px;
   margin-right: 50px;
@@ -2654,7 +2657,7 @@ span.flaticon-paint-roller:before {
 }
 
 .features-two-sec-single.active p {
-  color: #fff;
+  color: #cecece;
 }
 
 /*** 
@@ -2796,12 +2799,11 @@ span.flaticon-paint-roller:before {
   margin: 0;
 }
 .about-two-bottom-content h3 {
-  font-size: 20px;
   line-height: 32px;
   text-transform: uppercase;
   font-weight: 100;
   margin-top: 14px;
-  font-family: cursive;
+  font-family: coco;
 }
 .about-two-bottom-content span {
   color: var(--thm-primary);
